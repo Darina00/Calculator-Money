@@ -1,4 +1,4 @@
-Application for calculating income and expenses
+React application for calculating income and expenses
 =====================
 
     Using the buttons, you can add income and expense with the name of the operation.
